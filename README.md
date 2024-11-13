@@ -43,6 +43,28 @@ This project offers a unique collection of 100 D&D 5e books, each teaching a dis
 </html>
 ```
 
+## Editing the File to Add Your Own Books
+
+If you’d like to customize the list by adding or modifying books, follow these steps:
+
+1. **Open `index.html`** in a code editor or word processor of your choice.
+   
+2. **Locate the `<tbody>` section**: Scroll down in the code until you see the `<tbody>` element, which holds the main table data.
+
+3. **Edit or Add New Rows**:
+   - Each row represents a book and is structured as follows:
+     ```html
+     <tr><td>Number in the chart</td><td>Book Name</td><td>Price</td><td>Skill/Proficiency/Spell learned from reading</td></tr>
+     ```
+   - For example, to add a new entry at number 101:
+     ```html
+     <tr><td>101</td><td>Advanced Conjuration</td><td>150 gp</td><td>Spell: Dimension Door</td></tr>
+     ```
+
+4. **Save the File**: After making changes, save the `index.html` file and open it in your browser to see your custom table.
+
+Feel free to fork this repository or submit pull requests if you'd like to share your own book lists with the community!
+
 ## Future Plans
 
 - Implement tooltip descriptions for each skill, proficiency, or spell.
