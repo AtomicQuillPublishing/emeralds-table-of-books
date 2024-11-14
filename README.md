@@ -1,5 +1,12 @@
 <p align="center"><img src="https://i.imgur.com/DNxpZGG.png"></p>
 
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Created_Using-HTML-057031?logo=html5&logoColor=ffffff" alt="Created Using HTML"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Created_Using-CSS-057031?logo=css3&logoColor=ffffff" alt="Created Using CSS"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Created_Using-JavaScript-057031?logo=JavaScript&logoColor=ffffff" alt="Created Using JavaScript"></a>
+</p>
+
+
 <br>
 
 This project offers a unique collection of 100 D&D 5e books, each teaching a distinct skill, proficiency, or spell. The HTML table provides a ready-made d100 list to enrich your D&D campaigns by introducing books with meaningful gameplay benefits.
